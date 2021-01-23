@@ -1,0 +1,526 @@
+# Copyright (C) 2018 ZintaTheme (www.zintatheme.com)
+# This file is distributed under the same license as Hayya package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hayya 1.0.0\n"
+"Report-Msgid-Bugs-To: http://zintathemes.com\n"
+"POT-Creation-Date: 2018-02-02 23:24:58+00:00\n"
+"PO-Revision-Date: 2018-03-31 01:23+0200\n"
+"Last-Translator: Hassan Matooq <>\n"
+"Language-Team: Hassan Matooq <>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "عذراً! هذه الصفحة غير موجودة"
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"لا يمكن العثور على محتوى هنا. بإمكانك محاولة البجث في الموقع أو مراجعة "
+"الروابط الثالية"
+
+#: 404.php:35
+msgid "Most Used Categories"
+msgstr "التصنيفات الأكثر شعبية"
+
+#: comments.php:28
+msgid "Comments"
+msgstr "التعليقات"
+
+#. translators: 1: title.
+#: comments.php:41
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "تعليق واحد على &ldquo;%1$s&rdquo;"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة"
+
+#: functions.php:42
+msgid "Primary"
+msgstr "رئيسي"
+
+#: includes/class-hayya-comments.php:45
+msgid "Name"
+msgstr "الأسم"
+
+#: includes/class-hayya-comments.php:55
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: includes/class-hayya-comments.php:64
+msgid "Website"
+msgstr "الموقع الشخصي"
+
+#: includes/class-hayya-comments.php:75
+msgid "Comment"
+msgstr "التعليقات"
+
+#: includes/class-hayya-comments.php:96
+msgid "Your comment is awaiting moderation."
+msgstr "مشاركتك في إنتظار المراجعة"
+
+#: includes/class-hayya-comments.php:98
+msgid "Edit"
+msgstr "تعديل"
+
+#: includes/class-hayya-comments.php:123
+msgid "says"
+msgstr "علّق"
+
+#: includes/class-hayya-comments.php:128
+msgid "at"
+msgstr "على"
+
+#: includes/class-hayya-customize.php:36
+msgid "Layout"
+msgstr "التصميم"
+
+#: includes/class-hayya-customize.php:39
+msgid "Customize Hayya Layout."
+msgstr ""
+
+#: includes/class-hayya-customize.php:56
+msgid "Layout Mode"
+msgstr "التصميم العام للصفحة"
+
+#: includes/class-hayya-customize.php:60
+msgid "Wide"
+msgstr ""
+
+#: includes/class-hayya-customize.php:61
+msgid "Boxed"
+msgstr ""
+
+#: includes/class-hayya-customize.php:80
+#, fuzzy
+msgid "Layout Width"
+msgstr "التصميم"
+
+#: includes/class-hayya-customize.php:81
+msgid "in boxed mode only."
+msgstr ""
+
+#: includes/class-hayya-customize.php:101
+msgid "Container Width"
+msgstr "عرض المحتوى"
+
+#: includes/class-hayya-customize.php:121
+#, fuzzy
+msgid "Background Color"
+msgstr "خلفية الموقع"
+
+#: includes/class-hayya-customize.php:141
+#, fuzzy
+msgid "Background Image"
+msgstr "خلفية الموقع"
+
+#: includes/class-hayya-customize.php:151
+msgid "Color Schemes"
+msgstr "ألوان الموقع"
+
+#: includes/class-hayya-customize.php:154
+msgid "customize Hayya colors."
+msgstr ""
+
+#: includes/class-hayya-customize.php:167
+msgid "Second Color"
+msgstr ""
+
+#: includes/class-hayya-customize.php:170
+msgid "Third Color"
+msgstr ""
+
+#: includes/class-hayya-customize.php:173
+msgid "Fourth Color"
+msgstr ""
+
+#: includes/class-hayya-customize.php:176
+msgid "Fifth Color"
+msgstr ""
+
+#: includes/class-hayya-customize.php:179
+msgid "First Color"
+msgstr ""
+
+#: includes/class-hayya-customize.php:209
+#, fuzzy
+msgid "Typography Settings"
+msgstr "الخطوط"
+
+#: includes/class-hayya-customize.php:212
+#, fuzzy
+msgid "customize Hayya typography."
+msgstr "إعدادات نوع الخطوط للقالب"
+
+#: includes/class-hayya-customize.php:255
+msgid "Header"
+msgstr "الترويسة"
+
+#: includes/class-hayya-customize.php:258
+msgid "customize Hayya Header."
+msgstr ""
+
+#: includes/class-hayya-customize.php:275
+msgid "HayyaBuild Header"
+msgstr "ترويسة HayyaBuild"
+
+#: includes/class-hayya-customize.php:276
+#: includes/class-hayya-customize.php:387
+msgid "You have to install HayyaBuild Lite plugin."
+msgstr ""
+
+#: includes/class-hayya-customize.php:296
+msgid "Header Height"
+msgstr "إرتفاع الترويسة"
+
+#: includes/class-hayya-customize.php:316
+msgid "Header Logo"
+msgstr "الترويسة"
+
+#: includes/class-hayya-customize.php:336
+#, fuzzy
+msgid "Header Backgound Image"
+msgstr "إعدادات التروبسة"
+
+#: includes/class-hayya-customize.php:356
+msgid "Header Text"
+msgstr "محتوى الترويسة"
+
+#: includes/class-hayya-customize.php:366
+msgid "Footer"
+msgstr "التذييل"
+
+#: includes/class-hayya-customize.php:369
+msgid "customize Hayya Footer."
+msgstr ""
+
+#: includes/class-hayya-customize.php:386
+msgid "HayyaBuild Footer"
+msgstr "تذييل HayyaBuild"
+
+#: includes/class-hayya-customize.php:407
+#, fuzzy
+msgid "Display Footer Widgets"
+msgstr "محتوى التذييل"
+
+#: includes/class-hayya-customize.php:427
+#, fuzzy
+msgid "Footer Backgound Image"
+msgstr "إعدادات التذييل"
+
+#: includes/class-hayya-customize.php:447
+msgid "Footer Text"
+msgstr "محتوى التذييل"
+
+#: includes/class-hayya-customize.php:467
+#, fuzzy
+msgid "Display Copyright"
+msgstr "شريط الحقوق"
+
+#: includes/class-hayya-customize.php:486
+#, fuzzy
+msgid "Copyright Text"
+msgstr "شريط الحقوق"
+
+#: includes/class-hayya-customize.php:505
+#, fuzzy
+msgid "Copyright Alignment"
+msgstr "محاذاة شريط الحقوق"
+
+#: includes/class-hayya-customize.php:520
+msgid "Blog"
+msgstr "المدونة"
+
+#: includes/class-hayya-customize.php:523
+msgid "customize Hayya Blog."
+msgstr ""
+
+#: includes/class-hayya-customize.php:539
+msgid "Featured image zoom effect"
+msgstr "تأتير الصةرو الرئيسية"
+
+#: includes/class-hayya-customize.php:557
+#, fuzzy
+msgid "Display Right Sidebar"
+msgstr "الشريط الجانبي"
+
+#: includes/class-hayya-customize.php:576
+#, fuzzy
+msgid "Display Related Posts"
+msgstr "عرض المقالات ذات الصلة"
+
+#: includes/class-hayya-customize.php:595
+#, fuzzy
+msgid "Display Author card"
+msgstr "عرض بيانات صاحب المقالة في صفحة عرض المقالة"
+
+#: includes/class-hayya-customize.php:614
+msgid "Default Posts Image"
+msgstr "الصورة الإفتراضية للمقالات"
+
+#: includes/class-hayya-customize.php:633
+msgid "Default Slider Image"
+msgstr "الصورة الإفتراضية للمقالات"
+
+#: includes/class-hayya-posts.php:230
+msgid "Posts"
+msgstr "النقالات"
+
+#: includes/class-hayya-widgets.php:61
+msgid "Right Sidebar"
+msgstr "الشريط الجانبي"
+
+#: includes/class-hayya-widgets.php:63 includes/class-hayya-widgets.php:72
+#: includes/class-hayya-widgets.php:84
+msgid "Add widgets here."
+msgstr "أضف ملصقات هنا"
+
+#: includes/class-hayya-widgets.php:70
+msgid "Sticky Sidebar"
+msgstr "شريط جانبي عائم"
+
+#: includes/class-hayya.php:119 includes/class-hayya.php:123
+msgid "Get Started"
+msgstr ""
+
+#: includes/extensions/google-fonts/class-hayya-fonts.php:88
+msgid "Body Font"
+msgstr "خط الموفع"
+
+#: includes/extensions/google-fonts/class-hayya-fonts.php:89
+#: includes/extensions/google-fonts/class-hayya-fonts.php:98
+#: includes/extensions/google-fonts/class-hayya-fonts.php:107
+#: includes/extensions/google-fonts/class-hayya-fonts.php:116
+#: includes/extensions/google-fonts/class-hayya-fonts.php:125
+#: includes/extensions/google-fonts/class-hayya-fonts.php:134
+#: includes/extensions/google-fonts/class-hayya-fonts.php:143
+msgid "Select Font Famly"
+msgstr ""
+
+#: includes/extensions/google-fonts/class-hayya-fonts.php:92
+#, fuzzy
+msgid "Body Font Size"
+msgstr "خط الموفع"
+
+#: includes/extensions/google-fonts/class-hayya-fonts.php:97
+#, fuzzy
+msgid "H1 Font"
+msgstr "خط الموفع"
+
+#: includes/extensions/google-fonts/class-hayya-fonts.php:101
+msgid "H1 Font Size"
+msgstr ""
+
+#: includes/extensions/google-fonts/class-hayya-fonts.php:106
+#, fuzzy
+msgid "H2 Font"
+msgstr "خط الموفع"
+
+#: includes/extensions/google-fonts/class-hayya-fonts.php:110
+msgid "H2 Font Size"
+msgstr ""
+
+#: includes/extensions/google-fonts/class-hayya-fonts.php:115
+#, fuzzy
+msgid "H3 Font"
+msgstr "خط الموفع"
+
+#: includes/extensions/google-fonts/class-hayya-fonts.php:119
+msgid "H3 Font Size"
+msgstr ""
+
+#: includes/extensions/google-fonts/class-hayya-fonts.php:124
+#, fuzzy
+msgid "H4 Font"
+msgstr "خط الموفع"
+
+#: includes/extensions/google-fonts/class-hayya-fonts.php:128
+msgid "H4 Font Size"
+msgstr ""
+
+#: includes/extensions/google-fonts/class-hayya-fonts.php:133
+#, fuzzy
+msgid "H5 Font"
+msgstr "خط الموفع"
+
+#: includes/extensions/google-fonts/class-hayya-fonts.php:137
+msgid "H5 Font Size"
+msgstr ""
+
+#: includes/extensions/google-fonts/class-hayya-fonts.php:142
+#, fuzzy
+msgid "H6 Font"
+msgstr "خط الموفع"
+
+#: includes/extensions/google-fonts/class-hayya-fonts.php:146
+msgid "H6 Font Size"
+msgstr ""
+
+#: includes/extensions/google-fonts/class-hayya-fonts.php:186
+msgid "Standard Fonts"
+msgstr ""
+
+#: includes/extensions/google-fonts/class-hayya-fonts.php:200
+msgid "Google WebFonts"
+msgstr ""
+
+#. translators: 1: list of categories.
+#: includes/template-tags.php:55
+msgid "Posted in : %1$s"
+msgstr "نشر في : %1$s"
+
+#. translators: 1: list of tags.
+#: includes/template-tags.php:62
+msgid "Tagged %1$s"
+msgstr "كلمة دلالية %1$s"
+
+#. translators: %s: post title
+#: includes/template-tags.php:72
+msgid "Leave a Comment <span class=\"screen-reader-text\"> on %s</span>"
+msgstr "أضف تعليق <span class=\"screen-reader-text\"> في %s</span>"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: includes/template-tags.php:89
+msgid "<span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: includes/woocommerce.php:227
+msgid "View your shopping cart"
+msgstr "أعرض كرت التسوق"
+
+#. translators: number of items in the mini cart.
+#: includes/woocommerce.php:229
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d بند"
+msgstr[1] "%d بنود"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: search.php:20
+msgid "Searching for"
+msgstr "البحث عن"
+
+#: searchform.php:14
+msgid "Search"
+msgstr "بحث"
+
+#: tag.php:25
+msgid "Tag"
+msgstr "كلمة دلالية"
+
+#: templates/content-none.php:14
+msgid "Nothing Found"
+msgstr "لم يتم العثور على شيء"
+
+#. translators: 1: link to WP admin new post page.
+#: templates/content-none.php:25
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "جاهز لنشر مقالتك ؟ <a href=\"%1$s\">إبداء من هنا</a>."
+
+#: templates/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "نأسف ة لكن لم يثم العثور على ماتبحث عنه.الرجاء المحاولة مع كلمات أخرى"
+
+#: templates/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "لم نعثر على شيء. قد يساعدك إستخدام البخث"
+
+#: templates/content-page.php:19 templates/posts.php:72 templates/single.php:36
+msgid "Pages:"
+msgstr "صفخات:"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: templates/content-page.php:32
+msgid "Edit <span class=\"\">%s</span>"
+msgstr "تعديل <span class=\"\">%s</span>"
+
+#: templates/posts.php:89 templates/single.php:55
+msgid "Tags"
+msgstr "كلمات دلالية"
+
+#: templates/single.php:52
+msgid "Categories"
+msgstr "التصنيفات"
+
+#: templates/single.php:79
+msgid "Related Articles"
+msgstr "مقالات ذات الصلة"
+
+#: templates/single.php:80
+msgid "More From Author"
+msgstr "مقالات للكاتب"
+
+#. Theme Name of the plugin/theme
+msgid "Hayya"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://zintathemes.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Hayya is a WordPress theme based on Materialize CSS Framework which makes it "
+"responsive and mobile friendly. it's simple, straightforward and high "
+"quality theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ZintaThemes"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:47
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "تعليق واحد على &ldquo;%1$s&rdquo;"
+msgstr[1] "تعليق واحد على &ldquo;%1$s&rdquo;"
+msgstr[2] "تعليقان على &ldquo;%1$s&rdquo;"
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: includes/class-hayya-widgets.php:82
+#, fuzzy
+msgctxt "the %s will be replaced with the number of Footer"
+msgid "Footer %d"
+msgstr "التذييل %s"
+
+#. translators: %s: post date.
+#: includes/template-tags.php:29
+#, fuzzy
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "أضيف في %s"
+
+#. translators: %s: post author.
+#: includes/template-tags.php:35
+#, fuzzy
+msgctxt "post author"
+msgid "by %s"
+msgstr "بواسطة %s"
+
+#. translators: used between list items, there is a space after the comma
+#: includes/template-tags.php:52 includes/template-tags.php:59
+msgctxt "list item separator"
+msgid ", "
+msgstr ""

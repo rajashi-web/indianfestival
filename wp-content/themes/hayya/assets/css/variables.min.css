@@ -1,0 +1,63 @@
+/*!
+ * Theme Name: HayyaTheme
+ * variables
+*/
+:root {
+  --hayya-green-color: #7ad03a;
+  --hayya-red-color: #FF0909;
+  --hayya-orange-color: #F88511;
+  --hayya-yellow-color: #E9FF00;
+  --hayya-blue-color: #2ea2cc;
+  --hayya-layout-width: 100vw;
+  --hayya-container-width: 90%;
+  --hayya-header-height: 90vh;
+  --hayya-body-bg: transparent;
+  --hayya-header-bg-color: transparent;
+  --hayya-header-bg-image: none;
+  --hayya-footer-bg-color: transparent;
+  --hayya-footer-bg-image: none;
+  --hayya-first-color: #324d5c;
+  --hayya-second-color: #46b29d;
+  --hayya-third-color: #f0ca4d;
+  --hayya-fourth-color: #e37b40;
+  --hayya-fifth-color: #f53855;
+  --hayya-sixth-color: #eae979;
+  --hayya-seventh-color: #eae979;
+  --hayya-first-color-light: #4d768e;
+  --hayya-second-color-light: #7acbbb;
+  --hayya-third-color-light: #f6df94;
+  --hayya-fourth-color-light: #eda983;
+  --hayya-fifth-color-light: #f98193;
+  --hayya-sixth-color-light: #f4f4bb;
+  --hayya-seventh-color-light: #f4f4bb;
+  --hayya-first-color-dark: #17242a;
+  --hayya-second-color-dark: #307b6d;
+  --hayya-third-color-dark: #deae13;
+  --hayya-fourth-color-dark: #bb551b;
+  --hayya-fifth-color-dark: #d60b2a;
+  --hayya-sixth-color-dark: #e0de37;
+  --hayya-seventh-color-dark: #e0de37;
+  --hayya-body-font: "Arial, Helvetica, sans-serif";
+  --hayya-body-font-size: 1rem;
+  --hayya-h1-font: "Arial, Helvetica, sans-serif";
+  --hayya-h1-font-size: 2rem;
+  --hayya-h2-font: "Arial, Helvetica, sans-serif";
+  --hayya-h2-font-size: 1.8rem;
+  --hayya-h3-font: "Arial, Helvetica, sans-serif";
+  --hayya-h3-font-size: 1.6rem;
+  --hayya-h4-font: "Arial, Helvetica, sans-serif";
+  --hayya-h4-font-size: 1.4rem;
+  --hayya-h5-font: "Arial, Helvetica, sans-serif";
+  --hayya-h5-font-size: 1.2rem;
+  --hayya-h6-font: "Arial, Helvetica, sans-serif";
+  --hayya-h6-font-size: 1rem;
+  --hayya-smaller-font: "Arial, Helvetica, sans-serif";
+  --hayya-smaller-font-size: 0.5rem;
+  --hayya-small-font: "Arial, Helvetica, sans-serif";
+  --hayya-small-font-size: 0.8rem;
+  --hayya-regular-font: "Arial, Helvetica, sans-serif";
+  --hayya-regular-font-size: 1rem;
+  --hayya-large-font: "Arial, Helvetica, sans-serif";
+  --hayya-large-font-size: 1.5rem;
+  --hayya-larger-font: "Arial, Helvetica, sans-serif";
+  --hayya-larger-font-size: 2rem; }

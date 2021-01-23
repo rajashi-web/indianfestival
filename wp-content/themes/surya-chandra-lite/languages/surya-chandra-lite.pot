@@ -1,0 +1,1211 @@
+# Copyright (C) 2015-2020 WEN Themes
+# This file is distributed under the GNU General Public License, version 2 (GPLv2).
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Surya Chandra Lite\n"
+"Report-Msgid-Bugs-To: https://wenthemes.com/contact/\n"
+"POT-Creation-Date: 2020-09-28 16:48-0400\n"
+"PO-Revision-Date: 2016-12-07 01:05-0500\n"
+"Last-Translator: WEN Themes <info@wenthemes.com>\n"
+"Language-Team: WEN Themes <info@wenthemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: \n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:17
+msgid "404"
+msgstr ""
+
+#: ../404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: ../comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: ../functions.php:44
+msgid "Primary"
+msgstr ""
+
+#: ../functions.php:45
+msgid "Footer"
+msgstr ""
+
+#: ../functions.php:46
+msgid "404 Quick Links"
+msgstr ""
+
+#: ../functions.php:126
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../functions.php:128
+msgid "Add widgets here to appear in your primary sidebar."
+msgstr ""
+
+#: ../functions.php:135
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: ../functions.php:137
+msgid "Add widgets here to appear in your secondary sidebar."
+msgstr ""
+
+#: ../functions.php:146
+#, php-format
+msgid "Footer %d"
+msgstr ""
+
+#: ../functions.php:180
+msgid "expand child menu"
+msgstr ""
+
+#: ../functions.php:181
+msgid "collapse child menu"
+msgstr ""
+
+#: ../header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: ../inc/customizer.php:56
+msgid "Surya Chandra"
+msgstr ""
+
+#: ../inc/customizer.php:57
+msgid "Buy Surya Chandra from ThemeForest"
+msgstr ""
+
+#: ../inc/customizer/controls.php:209
+msgid "Add New"
+msgstr ""
+
+#: ../inc/customizer/default.php:45
+msgid "Blog"
+msgstr ""
+
+#: ../inc/customizer/default.php:47
+msgid "Read More"
+msgstr ""
+
+#: ../inc/customizer/default.php:50 ../inc/helper/common.php:94
+#: ../lib/breadcrumbs/breadcrumbs.php:250
+msgid "Home"
+msgstr ""
+
+#: ../inc/customizer/default.php:54
+msgid "Copyright &copy; All rights reserved."
+msgstr ""
+
+#: ../inc/customizer/option.php:16
+msgid "Show Site Title"
+msgstr ""
+
+#: ../inc/customizer/option.php:28
+msgid "Show Tagline"
+msgstr ""
+
+#: ../inc/customizer/option.php:36 ../lib/info/info.php:71
+msgid "Theme Options"
+msgstr ""
+
+#: ../inc/customizer/option.php:42
+msgid "Header Options"
+msgstr ""
+
+#: ../inc/customizer/option.php:53 ../inc/metabox.php:79
+msgid "Header Layout"
+msgstr ""
+
+#: ../inc/customizer/option.php:65
+msgid "Contact Number"
+msgstr ""
+
+#: ../inc/customizer/option.php:76
+msgid "Contact Email"
+msgstr ""
+
+#: ../inc/customizer/option.php:87
+msgid "Contact Address"
+msgstr ""
+
+#: ../inc/customizer/option.php:98
+msgid "Quote Button Text"
+msgstr ""
+
+#: ../inc/customizer/option.php:109
+msgid "Quote Button URL"
+msgstr ""
+
+#: ../inc/customizer/option.php:116
+msgid "Custom Header Options"
+msgstr ""
+
+#: ../inc/customizer/option.php:126 ../inc/so-widgets/cta/cta.php:82
+msgid "Select Layout"
+msgstr ""
+
+#: ../inc/customizer/option.php:138
+msgid "Show Title"
+msgstr ""
+
+#: ../inc/customizer/option.php:149
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: ../inc/customizer/option.php:156
+msgid "Social Options"
+msgstr ""
+
+#: ../inc/customizer/option.php:166
+msgid "Social Links"
+msgstr ""
+
+#: ../inc/customizer/option.php:167
+msgid "Enter full URL."
+msgstr ""
+
+#: ../inc/customizer/option.php:174
+msgid "Layout Options"
+msgstr ""
+
+#: ../inc/customizer/option.php:184
+msgid "Global Layout"
+msgstr ""
+
+#: ../inc/customizer/option.php:196
+msgid "Archive Layout"
+msgstr ""
+
+#: ../inc/customizer/option.php:208
+msgid "Image in Archive"
+msgstr ""
+
+#: ../inc/customizer/option.php:220
+msgid "Image Alignment in Archive"
+msgstr ""
+
+#: ../inc/customizer/option.php:229
+msgid "Blog Options"
+msgstr ""
+
+#: ../inc/customizer/option.php:239
+msgid "Blog Title"
+msgstr ""
+
+#: ../inc/customizer/option.php:250 ../inc/so-widgets/latest-news/latest-news.php:91
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../inc/customizer/option.php:251 ../inc/so-widgets/latest-news/latest-news.php:92
+msgid "in words"
+msgstr ""
+
+#: ../inc/customizer/option.php:263
+msgid "Read More Text"
+msgstr ""
+
+#: ../inc/customizer/option.php:270
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: ../inc/customizer/option.php:280
+msgid "Home Text"
+msgstr ""
+
+#: ../inc/customizer/option.php:291
+msgid "Show Current Title"
+msgstr ""
+
+#: ../inc/customizer/option.php:298
+msgid "Footer Options"
+msgstr ""
+
+#: ../inc/customizer/option.php:309
+msgid "Copyright Text"
+msgstr ""
+
+#: ../inc/helper/common.php:62
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../inc/helper/common.php:67
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../inc/helper/options.php:26
+msgid "No Image"
+msgstr ""
+
+#: ../inc/helper/options.php:29
+msgid "Thumbnail"
+msgstr ""
+
+#: ../inc/helper/options.php:30
+msgid "Medium"
+msgstr ""
+
+#: ../inc/helper/options.php:31
+msgid "Large"
+msgstr ""
+
+#: ../inc/helper/options.php:32
+msgid "Full (original)"
+msgstr ""
+
+#: ../inc/helper/options.php:152
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../inc/helper/options.php:153
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../inc/helper/options.php:154
+msgid "Three Columns"
+msgstr ""
+
+#: ../inc/helper/options.php:155
+msgid "No Sidebar"
+msgstr ""
+
+#: ../inc/helper/options.php:175
+msgid "Grid"
+msgstr ""
+
+#: ../inc/helper/options.php:176
+msgid "Simple"
+msgstr ""
+
+#: ../inc/helper/options.php:198
+msgid "One"
+msgstr ""
+
+#: ../inc/helper/options.php:202
+msgid "Two"
+msgstr ""
+
+#: ../inc/helper/options.php:209 ../inc/helper/options.php:232
+msgid "Default"
+msgstr ""
+
+#: ../inc/helper/options.php:233
+msgid "Small Header"
+msgstr ""
+
+#: ../inc/hook/custom.php:140
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../inc/hook/custom.php:142
+msgid "404!"
+msgstr ""
+
+#: ../inc/hook/tgm.php:19
+msgid "Page Builder by SiteOrigin"
+msgstr ""
+
+#: ../inc/hook/tgm.php:24
+msgid "SiteOrigin Widgets Bundle"
+msgstr ""
+
+#: ../inc/hook/tgm.php:29
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../inc/hook/tgm.php:34
+msgid "WooCommerce"
+msgstr ""
+
+#: ../inc/hook/tgm.php:39 ../lib/info/info.php:86 ../lib/info/info.php:140
+msgid "One Click Demo Import"
+msgstr ""
+
+#: ../inc/metabox.php:22
+msgid "Theme Settings"
+msgstr ""
+
+#: ../inc/site-origin.php:41
+msgid "Surya Chandra Widgets"
+msgstr ""
+
+#: ../inc/site-origin.php:158
+msgid "Widget Title Color"
+msgstr ""
+
+#: ../inc/site-origin.php:165
+msgid "Widget Subtitle Color"
+msgstr ""
+
+#: ../inc/site-origin.php:303 ../inc/so-widgets/cta/cta.php:51
+#: ../inc/so-widgets/latest-news/latest-news.php:51
+#: ../inc/so-widgets/recent-posts/recent-posts.php:51
+#: ../inc/so-widgets/special-page/special-page.php:51
+msgid "Title"
+msgstr ""
+
+#: ../inc/site-origin.php:307 ../inc/so-widgets/cta/cta.php:55
+#: ../inc/so-widgets/latest-news/latest-news.php:55
+#: ../inc/so-widgets/recent-posts/recent-posts.php:55
+#: ../inc/so-widgets/special-page/special-page.php:55
+msgid "Subtitle"
+msgstr ""
+
+#: ../inc/site-origin.php:310 ../inc/so-widgets/latest-news/latest-news.php:58
+#: ../inc/so-widgets/recent-posts/recent-posts.php:58
+#: ../inc/so-widgets/special-page/special-page.php:58
+msgid "Title/subtitle Alignment"
+msgstr ""
+
+#: ../inc/so-widgets/cta/cta.php:29
+msgid "Surya Chandra: CTA"
+msgstr ""
+
+#: ../inc/so-widgets/cta/cta.php:31
+msgid "A simple call to action widget."
+msgstr ""
+
+#: ../inc/so-widgets/cta/cta.php:59
+msgid "Primary Button Text"
+msgstr ""
+
+#: ../inc/so-widgets/cta/cta.php:60 ../lib/info/info.php:126
+msgid "Learn More"
+msgstr ""
+
+#: ../inc/so-widgets/cta/cta.php:64
+msgid "Primary Button URL"
+msgstr ""
+
+#: ../inc/so-widgets/cta/cta.php:69
+msgid "Secondary Button Text"
+msgstr ""
+
+#: ../inc/so-widgets/cta/cta.php:73
+msgid "Secondary Button URL"
+msgstr ""
+
+#: ../inc/so-widgets/cta/cta.php:77
+msgid "Settings"
+msgstr ""
+
+#: ../inc/so-widgets/cta/cta.php:85
+msgid "Layout 1"
+msgstr ""
+
+#: ../inc/so-widgets/cta/cta.php:86
+msgid "Layout 2"
+msgstr ""
+
+#: ../inc/so-widgets/cta/cta.php:91
+msgid "Title Color"
+msgstr ""
+
+#: ../inc/so-widgets/cta/cta.php:96
+msgid "Subtitle Color"
+msgstr ""
+
+#: ../inc/so-widgets/cta/cta.php:101
+msgid "Background Color"
+msgstr ""
+
+#: ../inc/so-widgets/cta/cta.php:103
+msgid "Applies to Layout 1 only."
+msgstr ""
+
+#: ../inc/so-widgets/latest-news/latest-news.php:29
+msgid "Surya Chandra: Latest News"
+msgstr ""
+
+#: ../inc/so-widgets/latest-news/latest-news.php:31
+msgid "Displays latest posts in grid."
+msgstr ""
+
+#: ../inc/so-widgets/latest-news/latest-news.php:64
+#: ../inc/so-widgets/recent-posts/recent-posts.php:64
+msgid "Select Category:"
+msgstr ""
+
+#: ../inc/so-widgets/latest-news/latest-news.php:66
+#: ../inc/so-widgets/recent-posts/recent-posts.php:66
+msgid "All Categories"
+msgstr ""
+
+#: ../inc/so-widgets/latest-news/latest-news.php:69
+#: ../inc/so-widgets/recent-posts/recent-posts.php:69
+msgid "Number of Posts"
+msgstr ""
+
+#: ../inc/so-widgets/latest-news/latest-news.php:74
+msgid "Number of Columns"
+msgstr ""
+
+#: ../inc/so-widgets/latest-news/latest-news.php:80
+#: ../inc/so-widgets/recent-posts/recent-posts.php:74
+#: ../inc/so-widgets/special-page/special-page.php:69
+msgid "Featured Image"
+msgstr ""
+
+#: ../inc/so-widgets/latest-news/latest-news.php:86
+msgid "More Text"
+msgstr ""
+
+#: ../inc/so-widgets/latest-news/latest-news.php:88
+msgid "Know More"
+msgstr ""
+
+#: ../inc/so-widgets/latest-news/latest-news.php:97
+msgid "Explore Button Text"
+msgstr ""
+
+#: ../inc/so-widgets/latest-news/latest-news.php:99
+msgid "Explore More"
+msgstr ""
+
+#: ../inc/so-widgets/latest-news/latest-news.php:102
+msgid "Explore Button URL"
+msgstr ""
+
+#: ../inc/so-widgets/recent-posts/recent-posts.php:29
+msgid "Surya Chandra: Recent Posts"
+msgstr ""
+
+#: ../inc/so-widgets/recent-posts/recent-posts.php:31
+msgid "Displays recent posts."
+msgstr ""
+
+#: ../inc/so-widgets/recent-posts/recent-posts.php:80
+msgid "Image Width"
+msgstr ""
+
+#: ../inc/so-widgets/recent-posts/recent-posts.php:81
+msgid "in px"
+msgstr ""
+
+#: ../inc/so-widgets/recent-posts/recent-posts.php:86
+msgid "Disable Date"
+msgstr ""
+
+#: ../inc/so-widgets/special-page/special-page.php:29
+msgid "Surya Chandra: Special Page"
+msgstr ""
+
+#: ../inc/so-widgets/special-page/special-page.php:31
+msgid "Displays single page."
+msgstr ""
+
+#: ../inc/so-widgets/special-page/special-page.php:64
+msgid "Select Page:"
+msgstr ""
+
+#: ../inc/so-widgets/special-page/special-page.php:66
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: ../inc/so-widgets/special-page/special-page.php:75
+msgid "Image Alignment"
+msgstr ""
+
+#: ../inc/template-tags.php:47
+msgid ", "
+msgstr ""
+
+#: ../inc/template-tags.php:61
+msgid "0 Comments"
+msgstr ""
+
+#: ../lib/breadcrumbs/breadcrumbs.php:248
+msgid "Browse:"
+msgstr ""
+
+#: ../lib/breadcrumbs/breadcrumbs.php:251
+msgid "404 Not Found"
+msgstr ""
+
+#: ../lib/breadcrumbs/breadcrumbs.php:252
+msgid "Archives"
+msgstr ""
+
+#: ../lib/breadcrumbs/breadcrumbs.php:254
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: ../lib/breadcrumbs/breadcrumbs.php:256
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../lib/breadcrumbs/breadcrumbs.php:258
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: ../lib/breadcrumbs/breadcrumbs.php:260
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: ../lib/info/class.info.php:121 ../lib/info/class.info.php:122
+#, php-format
+msgid "%s Info"
+msgstr ""
+
+#: ../lib/info/class.info.php:126
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s. To fully take advantage of the best our theme can offer "
+"please make sure you visit theme info page."
+msgstr ""
+
+#: ../lib/info/class.info.php:126
+#, php-format
+msgid "Get started with %1$s"
+msgstr ""
+
+#: ../lib/info/class.info.php:126 ../lib/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../lib/info/class.info.php:232
+#, php-format
+msgid "%s() method does not exist."
+msgstr ""
+
+#: ../lib/info/class.info.php:341 ../lib/info/class.info.php:382
+msgid "Manage Plugins"
+msgstr ""
+
+#: ../lib/info/info.php:20
+#, php-format
+msgid ""
+"%1$s is now installed and ready to use. We want to make sure you have the best experience using "
+"the theme and that is why we gathered here all the necessary information for you. Thanks for "
+"using our theme!"
+msgstr ""
+
+#: ../lib/info/info.php:24
+msgid "Getting Started"
+msgstr ""
+
+#: ../lib/info/info.php:25
+msgid "Support"
+msgstr ""
+
+#: ../lib/info/info.php:26
+msgid "Useful Plugins"
+msgstr ""
+
+#: ../lib/info/info.php:27 ../lib/info/info.php:84 ../lib/info/info.php:87
+msgid "Demo Content"
+msgstr ""
+
+#: ../lib/info/info.php:28
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: ../lib/info/info.php:34
+msgid "Theme Details"
+msgstr ""
+
+#: ../lib/info/info.php:38 ../lib/info/info.php:95
+msgid "View Demo"
+msgstr ""
+
+#: ../lib/info/info.php:42 ../lib/info/info.php:57 ../lib/info/info.php:117
+msgid "View Documentation"
+msgstr ""
+
+#: ../lib/info/info.php:46
+msgid "Rate This Theme"
+msgstr ""
+
+#: ../lib/info/info.php:54 ../lib/info/info.php:114
+msgid "Theme Documentation"
+msgstr ""
+
+#: ../lib/info/info.php:56 ../lib/info/info.php:116
+msgid ""
+"Please check our full documentation for detailed information on how to setup and customize the "
+"theme."
+msgstr ""
+
+#: ../lib/info/info.php:63 ../lib/info/info.php:66
+msgid "Static Front Page"
+msgstr ""
+
+#: ../lib/info/info.php:65
+msgid ""
+"To achieve custom home page other than blog listing, you need to create and set static front page."
+msgstr ""
+
+#: ../lib/info/info.php:73
+msgid ""
+"Theme uses Customizer API for theme options. Using the Customizer you can easily customize "
+"different aspects of the theme."
+msgstr ""
+
+#: ../lib/info/info.php:74
+msgid "Customize"
+msgstr ""
+
+#: ../lib/info/info.php:79
+msgid "Page Builder"
+msgstr ""
+
+#: ../lib/info/info.php:81
+msgid ""
+"Page Builder by SiteOrigin is integrated in the theme to achieve different layouts. Please make "
+"sure both Page Builder by SiteOrigin and SiteOrigin Widgets Bundle plugins are installed and "
+"activated."
+msgstr ""
+
+#: ../lib/info/info.php:86
+#, php-format
+msgid ""
+"To import sample demo content, %1$s plugin should be installed and activated. After plugin is "
+"activated, visit Import Demo Data menu under Appearance."
+msgstr ""
+
+#: ../lib/info/info.php:92
+msgid "Theme Preview"
+msgstr ""
+
+#: ../lib/info/info.php:94
+msgid ""
+"You can check out the theme demos for reference to find out what you can achieve using the theme "
+"and how it can be customized."
+msgstr ""
+
+#: ../lib/info/info.php:105 ../lib/info/info.php:108
+msgid "Contact Support"
+msgstr ""
+
+#: ../lib/info/info.php:107
+msgid ""
+"Got theme support question or found bug or got some feedbacks? Best place to ask your query is "
+"the dedicated Support forum for the theme."
+msgstr ""
+
+#: ../lib/info/info.php:123
+msgid "Child Theme"
+msgstr ""
+
+#: ../lib/info/info.php:125
+msgid ""
+"For advanced theme customization, it is recommended to use child theme rather than modifying the "
+"theme file itself. Using this approach, you wont lose the customization after theme update."
+msgstr ""
+
+#: ../lib/info/info.php:135
+msgid ""
+"Theme supports some helpful WordPress plugins to enhance your site. But, please enable only those "
+"plugins which you need in your site. For example, enable WooCommerce only if you are using e-"
+"commerce."
+msgstr ""
+
+#: ../lib/info/info.php:140
+#, php-format
+msgid ""
+"To import demo content for this theme, %1$s plugin is needed. Please make sure plugin is "
+"installed and activated. After plugin is activated, you will see Import Demo Data menu under "
+"Appearance."
+msgstr ""
+
+#: ../lib/info/info.php:145
+msgid "If you want more advanced features then you can upgrade to the premium version of the theme."
+msgstr ""
+
+#: ../lib/info/info.php:146
+msgid "Buy Pro from ThemeForest"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure maximum compatibility "
+"with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure maximum compatibility "
+"with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:386 ../lib/tgm/class-tgm-plugin-activation.php:827
+#: ../lib/tgm/class-tgm-plugin-activation.php:2533 ../lib/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:387 ../lib/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:388
+msgid "This plugin was activated successfully:"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug and renaming did not "
+"work."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:934 ../lib/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin according to the "
+"WordPress guidelines."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are not packaged in a "
+"folder."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a while on some hosts, "
+"so please be patient."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:3509 ../lib/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:3509 ../lib/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some hosts, so please be "
+"patient."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../lib/tgm/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../template-parts/author-bio.php:21
+msgid "Written by"
+msgstr ""
+
+#: ../template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: ../template-parts/content-none.php:25
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: ../template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: ../template-parts/content-page.php:21 ../template-parts/content-post.php:39
+msgid "Pages:"
+msgstr ""
+
+#: ../template-parts/content-page.php:34
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: ../template-parts/content-post.php:28
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: ../template-parts/footer/copyright.php:32
+#, php-format
+msgid "Surya Chandra Lite by %s"
+msgstr ""
+
+#: ../template-parts/footer/copyright.php:32
+msgid "WEN Themes"
+msgstr ""
+
+#: ../template-parts/header/header-1.php:36
+msgid "Cart"
+msgstr ""
+
+#: ../template-parts/header/header-1.php:50 ../template-parts/header/header-2.php:26
+msgid "Menu"
+msgstr ""

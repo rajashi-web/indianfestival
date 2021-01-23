@@ -1,0 +1,60 @@
+= 2.2.0 - November 30, 2020 =
+- Fixed: Custom field broken images in admin
+- Fixed: Block editor styles
+- New: WordPress 5.5 compatible
+
+= 2.1.1 - July 29, 2020 =
+- Fixed: Conditional logic for premium / free features
+
+= 2.1.0 - July 28, 2020 =
+- New: Ability to adjust navbar mobile collapse breakpoint
+- New: Ability to customize header type 2 colors
+- Fixed: Bootstrap styles reduced
+- Fixed: Serving minified versions of CSS
+- Fixed: Bug with the vertical post card if no featured image
+- Changed: Promo boxes text background opacity control
+
+= 2.0.1 - July 12, 2020 =
+- Fixed: Minor bug fixes
+- Fixed: Navigation accessibility on the tablet devices
+
+= 2.0 - July 11, 2020 =
+- New: 5 different demo styles added
+- New: Recipe demo (Pro)
+- New: ACF Pro plugin added (Pro)
+- New: Customizer option to control homepage and single post layouts individually
+- New: Ability to control layout settings on individual posts and pages
+- New: 2 Featured areas added: Center Slider and Masonry (Pro)
+- New: Single Post with full-width image layout added
+- New: Page title style 2 added
+- Fixed: Gutenberg editor CSS
+- Changed: Prefixes for layout body classes, to avoid conflicts with other plugins
+- Changed: Sidebar width changed to 300px
+- Changed: Main tag rearranged for better SEO
+
+= 1.1.5 - June 10, 2020 =
+- Changed: URL to free version
+- Changed: Main tag for better SEO
+
+= 1.1.4 - May 20, 2020 =
+- Fixed: Social links bug
+
+= 1.1.3 - May 16, 2020 =
+- Fixed: Header 2 alignment when disabling socials and search
+- Fixed: Bug with slider arrow still showing on the last slide
+
+= 1.1.2 - May 3, 2020 =
+- Fixed: Compatibility with the latest version of WordPress editor
+- Fixed: Bug when saving posts with video embed 
+
+= 1.1.1 - April 18, 2020 =
+- Changed: Instagram Feed integration plugin
+- Fixed: Demo import files
+
+= 1.1.0 - April 17, 2020 =
+- New: WooCommerce Integration
+- Changed: Page and page title HTML markup for better UX
+- Fixed: Small CSS tweaks for better UI
+
+= 1.0.8 - April 15, 2020 =
+- Initial release
